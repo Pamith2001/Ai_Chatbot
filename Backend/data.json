@@ -1,0 +1,40 @@
+{
+  "orders": {
+    "ORD123": {
+      "status": "processing",
+      "details": "Will ship tomorrow."
+    },
+    "ORD456": {
+      "status": "shipped",
+      "details": "Expected delivery: 3 days."
+    },
+    "ORD789": {
+      "status": "delivered",
+      "details": "Delivered successfully 2 days ago."
+    }
+  },
+  "faq": {
+    "return_policy": "You can return items within 14 days of delivery. The product must be unused and in original packaging.",
+    "refund_policy": "Refunds are processed within 5-7 business days after we receive and inspect the returned item.",
+    "shipping_time": "Standard shipping takes 3–5 business days. Express option takes 1–2 days.",
+    "payment_methods": "We accept Visa, MasterCard, PayPal, and Cash on Delivery (COD)."
+  },
+  "product_recommendations": {
+    "phone": [
+      "Samsung A55",
+      "iPhone 13",
+      "Xiaomi Redmi Note 13",
+      "Google Pixel 7 Pro"
+    ],
+    "laptop": [
+      "ASUS VivoBook 15",
+      "Dell Inspiron 14",
+      "HP Pavilion 14"
+    ],
+    "audio": [
+      "Sony WH-1000XM4",
+      "JBL Tune 510BT",
+      "Apple AirPods Pro"
+    ]
+  }
+}
